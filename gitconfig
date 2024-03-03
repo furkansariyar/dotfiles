@@ -1,6 +1,6 @@
 [user]
-	name = pasali
-	email = mhmtbsl@gmail.com
+	name = furkansariyar
+	email = sariyarfurkan@gmail.com
 [alias]
 
 	# View abbreviated SHA, description, and history graph of the latest 20 commits
@@ -149,7 +149,7 @@
 	textconv = hexdump -v -C
 
 [github]
-       user = pasali
+       user = furkansariyar
 
 [help]
 

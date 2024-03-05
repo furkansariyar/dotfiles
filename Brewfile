@@ -31,13 +31,16 @@ brew "git-crypt"
 brew "tig"
 
 ## browser
-cask "brave-browser"
-cask "firefox"
-cask "opera"
+cask "arc"
+# cask "brave-browser"
+# cask "firefox"
+# cask "opera"
+cask "opera-gx"
 
 ## ide
 brew "vim"
 cask "visual-studio-code"
+cask "intellij-idea"
 cask "intellij-idea-ce"
 cask "datagrip"
 
@@ -88,17 +91,20 @@ brew "tcpreplay"
 brew "tcptrace"
 brew "vegeta"
 brew "tfk8s"
+brew "jetbrains-toolbox"
+brew "raycast"
 
 ## MISC.
-cask "1password"
+# cask "1password"
 cask "dropbox"
 cask "vlc"
-cask "keybase"
-cask "microsoft-teams"
-cask "slack"
+# cask "keybase"
+# cask "microsoft-teams"
+# cask "slack"
 cask 'whatsapp'
-cask 'spotify'
+# cask 'spotify'
 cask "ngrok"
 cask "rar"
-cask "tunnelblick"
-cask "microsoft-outlook"
+cask "discord"
+# cask "tunnelblick"
+# cask "microsoft-outlook"
